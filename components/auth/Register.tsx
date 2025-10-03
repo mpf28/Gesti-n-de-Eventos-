@@ -39,7 +39,7 @@ export const Register: React.FC = () => {
       <div className="w-full max-w-md bg-white dark:bg-gray-800 rounded-2xl shadow-2xl p-8 space-y-6">
         <div className="text-center">
           <h1 className="text-3xl font-bold text-gray-900 dark:text-white">Crear Cuenta</h1>
-          <p className="text-gray-500 dark:text-gray-400 mt-2">Únete a Gestor de Eventos Pro</p>
+          <p className="text-gray-500 dark:text-gray-400 mt-2">Únete a Gestor de Eventos</p>
         </div>
         
         <form className="space-y-6" onSubmit={handleSubmit}>

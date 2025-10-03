@@ -42,7 +42,7 @@ export const Login: React.FC = () => {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-100 via-white to-purple-100 dark:from-gray-800 dark:via-gray-900 dark:to-blue-900 p-4">
       <div className="w-full max-w-md bg-white dark:bg-gray-800 rounded-2xl shadow-2xl p-8 space-y-6 transform transition-all hover:scale-105 duration-500">
         <div className="text-center">
-          <h1 className="text-3xl font-bold text-gray-900 dark:text-white">Gestor de Eventos Pro</h1>
+          <h1 className="text-3xl font-bold text-gray-900 dark:text-white">Gestor de Eventos</h1>
           <p className="text-gray-500 dark:text-gray-400 mt-2">Inicia sesión para continuar</p>
         </div>
         
